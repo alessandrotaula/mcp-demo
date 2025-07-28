@@ -1,0 +1,9 @@
+[
+  {
+    "name": "task-manager",
+    "transport": {
+      "type": "http",
+      "url": "http://localhost:8000"
+    }
+  }
+]
