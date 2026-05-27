@@ -1,2 +1,6 @@
 fastapi
 uvicorn
+slack-sdk
+pandas
+openpyxl
+python-dotenv
